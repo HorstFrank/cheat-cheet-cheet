@@ -10,7 +10,7 @@ um gleich zu starten:
 
 Um deine änderungen beizutragen:
 
-- `git add . && git commit -m "Add new Things" && git push`
+- `git add . && git commit -m "Add new Things" && git push --set-upstream origin dev`
 
 Markdownsachen:
 
@@ -76,3 +76,5 @@ Bei späteren arbeiten an einem Repository
 - [Shell-Kommando Cheat-Cheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/1073300074-1610436652/command-line-cheat-sheet-large01.png)
 
 # Unsortierte Textschnippsel
+
+Hier einfach alles erstmal rein ...
